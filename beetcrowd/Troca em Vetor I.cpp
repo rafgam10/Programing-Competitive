@@ -4,7 +4,7 @@ using namespace std;
 int main(int argc, char const *argv[]){
    
    //O código não finalizando por completo, falta de lógica na hora de 
-   //inserir elementos trocandos no C++;
+   //inserir elementos trocandos no C++ 27/07/24;
 
    vector<int> NvetorOriginal(20), NvetorInverso(20);
    int n=NvetorOriginal.size(),j=0;
